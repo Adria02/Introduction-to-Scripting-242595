@@ -1,0 +1,3 @@
+A parte de el tutorial completado y con todo funcionando he implementado una nueva clase "Bomb",
+la cual es una esfera negra que cuando toca hay cuenta como un fallo para el jugador, 
+si la evita no pasa nada. (La probabilidad de que salga es del 20%)
